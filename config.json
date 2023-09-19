@@ -1,0 +1,11 @@
+{
+    "password": "password1234",
+    "time_span": [
+        "04:00:00.000000",
+        "05:00:00.000000"
+    ],
+    "message": "Test message",
+    "clients": [
+        "user_1@mail.com"
+    ]
+}
