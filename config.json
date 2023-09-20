@@ -4,8 +4,17 @@
         "04:00:00.000000",
         "05:00:00.000000"
     ],
+    "subject": "This is very important subject",
     "message": "Test message",
     "clients": [
-        "user_1@mail.com"
-    ]
+        "user_1@mail.com",
+        "user_2@mail.com"
+    ],
+    "from": "my_email@mail.com",
+    "smtp_server_name": "smtp_server_address",
+    "smtp_server_port": 587,
+    "smtp_server_cred": {
+        "username": "login_for_smtp",
+        "password": "password_for_smtp"
+    }
 }
